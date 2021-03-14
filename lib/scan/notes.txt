@@ -1,0 +1,3 @@
+This widget will utilize camera and text input to
+either scan a QR code, scan rf, use location, or allow user to type in code,
+to rent device

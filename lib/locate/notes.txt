@@ -1,0 +1,11 @@
+A map with locations of rental locations.
+Ability to select and see information about
+location such as business name, type, hours,
+and possibly a description of location
+within the business.
+
+Filter options based on Open now, open between,
+has available, available count, etc.
+
+Allow for directions to location.
+

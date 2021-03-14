@@ -1,0 +1,4 @@
+Start with two options, login and sign up. Display widgets
+accordingly.
+TODO: Navigate to where when signing in???
+TODO: Tutorial upon signup??? Scan most likely
